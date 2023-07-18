@@ -1,0 +1,19 @@
+{
+    "name": "cuvanblue/custom-php-framework",
+    "description": "making a simple framework to develop php website while i'm on summer vacation :))",
+    "type": "library",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "Cuvanblue\\CustomPhpFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cuvanblue",
+            "email": "cuvankhoa.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
